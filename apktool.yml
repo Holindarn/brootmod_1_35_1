@@ -1,0 +1,13 @@
+version: 1.5.2
+apkFileName: ingress-1.35.1-broot-1.0.2.11.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '9'
+  targetSdkVersion: '17'
+packageInfo:
+  cur_package: com.nianticproject.ingress
+  orig_package: com.nianticproject.ingress
+compressionType: false
